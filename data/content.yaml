@@ -6,7 +6,7 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: baisasrussel@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://russelbaisas.github.io" target="_blank">russelbaisas.github.io</a>
+      Info: <a class="contact__link" href="https://russelbaisas.github.io/rbaisas.github.io/" target="_blank">rbaisas.github.io</a>
     - Icon: fas fa-map-marker-alt
       Info: Melbourne, Australia
 
