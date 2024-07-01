@@ -1,0 +1,103 @@
+BasicInfo:
+  FirstName: Russel
+  LastName: Baisas
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: baisasrussel@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://russelbaisas.github.io" target="_blank">russelbaisas.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Melbourne, Australia
+
+Profile: Highly skilled Technical Support and Linux System Administrator with over 8+ years specializing in maintainance, deployment, troubleshooting applications in Linux servers. With a strong foundation in both handling customer experience and Linux systems, I excel in ensuring reliable and optimized system performance by providing robust problem solving skills. I'm always passionate on technologies and find ways to contribute to a foward-thinking company.
+
+Experience:
+  - Employer: Infomedix Pty Ltd 
+    Place: Melbourne, Australia
+    Positions:
+      - Title: Service Delivery, Application Support Analyst
+        Date: Oct 2021 - Oct 2023
+        Details:
+          - Worked closely with the project manager and business analyst along with the client to install, configure and debug the application and server either in the cloud or on-premise resulting in an improved systems and applications performance while fixing all the existing bugs, old issues.  
+          - Migrated the on-prem applications into the AWS cloud which is setup in EC2 to be use for development and UAT testings.
+          - Provide recommendation and details on server resource utilization as part of capacity planning to ensure the systems are properly monitored.
+          - Set up and install applications and their related components such as database, file system, web server (JBOSS, WildFly, Apache, Tomcat) in on-prem for other clients to be use for production ready.
+          - Worked with the client's IT and integration team to assess the requirement and to set up the integration components like health-care messaging protocol (HL7), message queuing (NextGen Mirth) that will be use for testing and production
+          - Support client’s UAT testing post-server and production.
+          - Provide technical support for BAU ensure the day to day issues and high severity tickets are catered
+          - Investigate, troubleshoot and resolve BAU tickets and issues
+          - Implement server fixes and deploy application patches to production for existing clients
+          - Document and update the knowledge base.
+          - Monitor application health, server certificate, backup scripts, database backups
+        Badges: ['Linux', 'HL7', 'APACHE WEBSERVER', 'AWS', 'MYSQL', 'Python', 'Service Delivery', 'EMR']
+
+  - Employer: Intelerad Medical Systems Incorporated(Oceania)
+    Place: Melbourne, Australia
+    Positions:
+      - Title: System Support Analyst
+        Date: Feb 2019 - Oct 2021
+        Details:
+          - Provide technical support to clients and  via tickets, calls or remote connection to end-user’s workstation
+          - Investigate and troubleshoot application or server issues in production and development
+          - Update case tickets with RCA, actions taken and resolution
+          - Provide initial investigation of urgent issues or bugs, escalate to TS or internal team to ensure timely resolution, provide regular updates to clients
+          - Resolve monitoring-related server issues and alerts (e.g. file system, image routing, server down)
+          - Implement and deploy fixes to production servers
+          - Creates and updates knowledge-base
+          - Collaborate and work with peers in the resolution of tickets and cases
+        Badges: ['PACS', 'HL7', 'TOMCAT', 'LINUX', 'SERVICENOW', 'TECHNICAL SUPPORT']
+
+  - Employer: Standard Chartered Global Business Services Malaysia
+    Place: KL, Malaysia
+    Positions:
+      - Title: Support Analyst – Infrastructure
+        Date: Feb 2012 - May 2017
+        Details:
+          - Support and maintain the development and production data warehouse servers running SAS Data Analytics, DB2 database, MQ/TDE, Control-M on AIX and RHEL servers
+          - Administer the infrastructure and environment changes, coordinate with vendors to execute server changes (e.g. OS server upgrade, license upgrade)
+          - Support the BAU operation by addressing user queries and tickets raised via BMC Remedy
+          - Provide initial investigation of urgent issues or bugs, escalate to TS or internal team to ensure timely resolution, provide regular updates to clients
+          - Implement disaster recovery (DR) drill for PDW servers
+        Badges: ['Data Warehouse', 'ETL', 'SAS', 'LINUX', 'BMC', 'TECHNICAL SUPPORT']
+
+Education:
+  - Course: Bachelor of Science in Information Technology
+    Place: Mapua Institute of Technology
+    Date: Mar 2002 - Nov 2005
+    Details: Specialised in Unix/Linux Administration
+
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - SQL
+      - Bash
+      - Go
+  - Family: Data Formats
+    Items:
+      - JSON
+      - YAML
+      - XML
+      - HL7
+  - Family: Operating System and Cloud
+    Items:
+      - AWS
+      - Linux
+      - Windows
+  - Family: Database
+    Items:
+      - MySql/MariaDB
+      - PostgresSQL
+      - RDS
+  - Family: ITIL
+    Items:
+      - MySql/MariaDB
+      - PostgresSQL
+      - RDS
+Trainings:
+  - Architecting in AWS (MAY 2024)
+
+
