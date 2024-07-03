@@ -13,6 +13,7 @@
             <h1 class="mainHeading">{{ $data.BasicInfo.FirstName }} {{ $data.BasicInfo.LastName }}</h1>
             {{ partial "_profile.html" $data }}
             {{ partial "_experience.html" $data }}
+            {{ partial "_otherexp.html" $data }}
             {{ partial "_references.html" $data }}
         </div>
         {{ if .Site.Params.swapColumns }}

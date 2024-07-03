@@ -1,0 +1,20 @@
+{{ if .Otherexp }}
+<div id="education" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">
+            {{ i18n "otherexp" }}
+        </h2>
+    </div>
+    <div class="section__content">
+        <ul class="otherexp">
+        {{ range .Otherexp }}
+            <li class="otherexp__item">
+                <h3 class="otherexp__title">{{ .Comp | safeHTML }}</h3>
+                <h4 class="otherexp__place">{{ .Position | safeHTML }}</h4>
+                <h4 class="otherexp__date">{{ .Date | safeHTML }}</h4>
+            </li>
+        {{ end }}
+    </ul>
+    </div>
+</div>
+{{ end }}

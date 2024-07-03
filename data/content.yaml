@@ -16,8 +16,8 @@ Experience:
   - Employer: Infomedix Pty Ltd 
     Place: Melbourne, Australia
     Positions:
-      - Title: Service Delivery, Application Support Analyst
-        Date: Oct 2021 - Oct 2023
+      - Title: Application Support Analyst
+        Date: Aug 2021 - Oct 2023
         Details:
           - Worked closely with the project manager and business analyst along with the client to perform system and application upgrades. Install, configure and debug the application and server either in the cloud or on-premise resulting in an improved system and application performance
           - Set up EC2 instance in AWS cloud and migrated the on-opremise application to support development and UAT activities 
@@ -36,28 +36,65 @@ Experience:
       - Title: System Support Analyst
         Date: Feb 2019 - Oct 2021
         Details:
-          - Provide technical support to clients via tickets, phone calls or remote connection to end-user’s workstation
-          - Investigate and troubleshoot application or server issues in production and development environments, implement and deploy fixes
+          - Provide technical support to clients logging tickets in ServiceNOW, catering to phone calls from client(IT, Clinicians, Radiologist), remote connection to end-user’s workstation
+          - Investigate and troubleshoot backend healthcare applications of PACS Imaging services in the linux/windows server issues in production and development environments. 
+          - Implement server configurations(eg. Applying renewed SSL certificates, network configurations for configuring additional server high-availability setup pacemaker/corosync).
           - Escalate to Technical Specialist or internal team to ensure timely resolution of high-severity issues
           - Update case tickets with RCA, actions taken and resolution and ensure regular updates are provided to clients
-          - Resolve monitoring-related server issues and alerts e.g. file system, image routing, server down
-          - Document and update the knowledge base
-          - High-availability distributed systems, cloud watch etc
-        Badges: ['PACS', 'HL7', 'TOMCAT', 'LINUX', 'SERVICENOW', 'TECHNICAL SUPPORT']
+          - Resolve monitoring-related server issues and alerts e.g. file system, PACS imaging workflow problems, server down
+          - Worked as a level 1 support for Cloud Based Application by investigating logs in cloudwatch, dynamoDB and lambda. 
+          - Contribute to documenting resolved tickets and create knowledge base from it.
+        Badges: ['PACS', 'HL7', 'TOMCAT', 'LINUX', 'SERVICENOW', 'SSL Certificates', 'High-availability']
+
+  - Employer: Standard Chartered Global Business Services Malaysia
+    Place: KL, Malaysia
+    Positions:
+      - Title: Support Analyst - Infra (Project-IFRS)
+        Date: May 2017 - April 2018
+        Details:
+          - Involve in planning and building new production infrastructure servers (RHEL) with data analytics (SAS Viya) as well as disaster recovery servers
+          - Administer the infrastructure and environment changes, coordinate with vendors to execute server changes (e.g. OS server upgrade, license upgrade)
+          - Manage and maintain the test and development environments servers adhere to company standards, security and best practices
+          - Perform and support Security Acceptance Test (SAT) to Overall Acceptance Test (OAT) to production go-live
+          - Build and manage infrastructure disaster recovery (DR) servers to ensure all services, applications, monitoring tools are up and running, perform pre-disaster recovery testing
+          - Provide technical and infrastructure documentations
+          - Partly involved in DevOPs CI/CD pipeline(SAS Viya script, Jenkins, Ansible)
+        Badges: ['Data Warehouse', 'ETL', 'SAS', 'LINUX', 'BMC', 'Ansible']
 
   - Employer: Standard Chartered Global Business Services Malaysia
     Place: KL, Malaysia
     Positions:
       - Title: Support Analyst – Infrastructure
-        Date: Feb 2012 - May 2017
+        Date: May 2015 - May 2017
         Details:
           - Support and maintain the development and production data warehouse servers running SAS Data Analytics, DB2 database, MQ/TDE, Control-M on AIX and RHEL servers
           - Administer the infrastructure and environment changes, coordinate with vendors to execute server changes (e.g. OS server upgrade, license upgrade)
           - Support the BAU operation by addressing user queries and tickets raised via BMC Remedy
-          - Provide initial investigation of urgent issues or bugs, escalate to TS or internal team to ensure timely resolution, provide regular updates to clients
-          - Implement disaster recovery (DR) drill for PDW servers
+          - Provide initial investigation of urgent issues or bugs, escalate to vendors or internal team to ensure timely resolution, provide regular updates to clients
+          - Plan and Implement disaster recovery (DR) drill for PDW servers
+          - Creates and updates the PDW documentation
+          - Participate in the implementation and enhancement of PDW infrastructure such as new application POC setup utilizing new technologies
+          - Creates and recommend improvements on production support daily processes by automating and developing bash shell or python scripts
         Badges: ['Data Warehouse', 'ETL', 'SAS', 'LINUX', 'BMC', 'TECHNICAL SUPPORT']
 
+  - Employer: Encora Technologies Sdn. Bhd
+    Place: KL, Malaysia
+    Positions:
+      - Title: Senior System Administrator
+        Date: Feb 2012 - May 2015
+        Details:
+          - Contractor and Deployed under Standard Chartered Global Business Services Malaysia
+        Badges: ['Data Warehouse', 'ETL', 'SAS', 'LINUX', 'BMC', 'TECHNICAL SUPPORT']
+
+
+
+Otherexp:
+  - Comp: Senior Science Research Specialist
+  - Position: Advanced Science and Technology Institute Philippines
+  - Date: 11/2008 – 12/2011
+  - Comp: Systems Integrator
+  - Position: GXS Philippines
+  - Date: 04/2008 - 10/2008
 Education:
   - Course: Bachelor of Science in Information Technology
     Place: Mapua Institute of Technology
@@ -70,7 +107,6 @@ Skills:
   - Family: Programming
     Items:
       - Python
-      - SQL
       - Bash
       - Go
   - Family: Data Formats
